@@ -1,38 +1,35 @@
-# Probepruefung FS22
+# FS22
 
-## Introduction
+## Einführung
 
-This is a Renku project - basically a git repository with some
-bells and whistles. You'll find we have already created some
-useful things like `data` and `notebooks` directories and
-a `Dockerfile`.
+In diesem Projekt finden Sie alle Unterlagen für das Semester FS22 des Grundkurses Programmieren der Universität Bern.
 
-## Working with the project
+## Arbeiten mit dem Projekt
 
-The simplest way to start your project is right from the Renku
-platform - just click on the `Environments` tab and start a new session.
-This will start an interactive environment right in your browser.
+Starten Sie eine neue Session mittels Klick auf den **Start** Knopf. Bei jedem Starten wird ein neuer Server nur für Sie erstellt. 
 
-To work with the project anywhere outside the Renku platform,
-click the `Settings` tab where you will find the
-git repo URLs - use `git` to clone the project on whichever machine you want.
 
-### Changing interactive environment dependencies
+### Notebooks speichern
 
-Initially we install a very minimal set of packages to keep the images small.
-However, you can add python and conda packages in `requirements.txt` and
-`environment.yml` to your heart's content. If you need more fine-grained
-control over your environment, please see [the documentation](https://renku.readthedocs.io/en/latest/user/advanced_interfaces.html#dockerfile-modifications).
+Im Moment **müssen** Sie nach dem Bearbeiten der Aufgaben die entsprechenden Notebooks auf Ihren Rechner herunterladen. Folgen Sie dazu dieser Anleitung: 
 
-## Project configuration
+- Klicken Sie im Menu auf `File/Save` (Notebooks mit ungesicherten Änderungen haben einen schwarzen Punkt im Tab neben dem Notebook Namen)
+- Klicken Sie im Menu auf `File/Download`
+- Passen Sie beim Download den Dateinamen an (bspw. `Einfuehrung_meines.ipynb`)
 
-Project options can be found in `.renku/renku.ini`. In this
-project there is currently only one option, which specifies
-the default type of environment to open, in this case `/lab` for
-JupyterLab. You may also choose `/tree` to get to the "classic" Jupyter
-interface.
+**Tipp**: Erstellen Sie einen Vorlesungs-Ordner mit identischen Unterordner pro Woche damit Sie die Übersicht behalten. 
 
-## Moving forward
+### Notebooks hochladen
 
-Once you feel at home with your project, we recommend that you replace
-this README file with your own project documentation! Happy data wrangling!
+Zum Forsetzen Ihrer Arbeit an den Aufgaben **müssen** Sie die entsprechenden Notebooks von Ihrem Rechner hochladen. Folgen Sie dazu dieser Anleitung:
+
+- Starten Sie eine Session
+- Wechseln Sie in den entsprechend Aufgaben-Ordner (z.B. `notebooks/02-25-22`)
+    
+- Klicken Sie auf das Upload Symbol 
+    - ![Upload Button](/images/upload.png)
+- Öffnen Sie Ihr Notebook
+
+## Feedback
+
+Haben Sie Anmerkungen oder Verbesserungsvorschläge? Wir sind offen und freuen uns über Ihre Beiträge im [Forum](https://fs22.gk.inf.unibe.ch)
