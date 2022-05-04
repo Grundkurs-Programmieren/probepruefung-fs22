@@ -1,35 +1,11 @@
-# FS22
+# Probeprüfung FS22
 
-## Einführung
+Instruktion: 
 
-In diesem Projekt finden Sie alle Unterlagen für das Semester FS22 des Grundkurses Programmieren der Universität Bern.
-
-## Arbeiten mit dem Projekt
-
-Starten Sie eine neue Session mittels Klick auf den **Start** Knopf. Bei jedem Starten wird ein neuer Server nur für Sie erstellt. 
-
-
-### Notebooks speichern
-
-Im Moment **müssen** Sie nach dem Bearbeiten der Aufgaben die entsprechenden Notebooks auf Ihren Rechner herunterladen. Folgen Sie dazu dieser Anleitung: 
-
-- Klicken Sie im Menu auf `File/Save` (Notebooks mit ungesicherten Änderungen haben einen schwarzen Punkt im Tab neben dem Notebook Namen)
-- Klicken Sie im Menu auf `File/Download`
-- Passen Sie beim Download den Dateinamen an (bspw. `Einfuehrung_meines.ipynb`)
-
-**Tipp**: Erstellen Sie einen Vorlesungs-Ordner mit identischen Unterordner pro Woche damit Sie die Übersicht behalten. 
-
-### Notebooks hochladen
-
-Zum Forsetzen Ihrer Arbeit an den Aufgaben **müssen** Sie die entsprechenden Notebooks von Ihrem Rechner hochladen. Folgen Sie dazu dieser Anleitung:
-
-- Starten Sie eine Session
-- Wechseln Sie in den entsprechend Aufgaben-Ordner (z.B. `notebooks/02-25-22`)
-    
-- Klicken Sie auf das Upload Symbol 
-    - ![Upload Button](/images/upload.png)
-- Öffnen Sie Ihr Notebook
-
-## Feedback
-
-Haben Sie Anmerkungen oder Verbesserungsvorschläge? Wir sind offen und freuen uns über Ihre Beiträge im [Forum](https://fs22.gk.inf.unibe.ch)
+* Starten Sie Jupyter Lab wie gewohnt
+* Öffnen Sie dann unter notebooks/Probepruefung das Notebook "Probepruefung_FS22.ipynb"
+* Lösen Sie die Aufgaben durch ergänzung mit Quelltext an den entsprechenden Orten
+* Speichern Sie ihr Notebook
+* Laden Sie das gespeicherte Notebook auf ihren Computer
+* Geben Sie das heruntergeladene Notebook über ILIAS ab
+* Nach der Abgabe erhalten Sie eine Musterlösung via ILIAS, die sie in Renkulab hochladen und anschauen können
