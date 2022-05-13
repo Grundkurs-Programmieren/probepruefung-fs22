@@ -1,8 +1,10 @@
 # Probeprüfung FS22
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/git/https%3A%2F%2Fgithub.com%2FGrundkurs-Programmieren%2Fprobepruefung-fs22/HEAD)
+
 Instruktion: 
 
-* Starten Sie Jupyter Lab wie gewohnt
+* Starten Sie Jupyter Lab indem Sie auf ![Binder](https://mybinder.org/badge_logo.svg) klicken
 * Öffnen Sie dann unter "notebooks/Probepruefung" das Notebook "Probepruefung_FS22.ipynb"
 * Lösen Sie die Aufgaben durch ergänzung mit Quelltext an den entsprechenden Orten
 * **Speichern** Sie ihr Notebook
